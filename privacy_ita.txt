@@ -1,0 +1,224 @@
+${[Ultimo aggiornamento 01 marzo 2023]g(12)}
+
+La presente informativa sulla privacy di Atera (${[Azienda]g()}, ${[noi]g()}, ${[nostro]g()}), descrive come e perché potremmo raccogliere, archiviare, utilizzare e/o condividere (${[trattare]g()}) le vostre informazioni quando utilizzate i nostri servizi (${[servizi]g()}), ad esempio quando:
+
+\u25CF Scarica e utilizza la nostra applicazione mobile (Atera) o qualsiasi altra nostra applicazione che rimanda a questa informativa sulla privacy
+
+\u25CF Si impegna con noi in altri modi correlati, comprese le vendite, il marketing o gli eventi
+
+${[Riassunto punti chiave]b(18)}
+
+Quando visitate, utilizzate o navigate nei nostri Servizi, possiamo elaborare informazioni personali a seconda di come interagite con Atera e i Servizi, delle scelte che fate e dei prodotti e delle funzioni che utilizzate.
+
+\u25CF ${[Trattiamo informazioni personali sensibili?]b(18)}
+Non trattiamo informazioni personali sensibili.
+
+\u25CF ${[Riceviamo informazioni da terzi?]b(18)}
+Non riceviamo informazioni da terzi.
+
+\u25CF ${[Come trattiamo le informazioni dell'utente?]b(18)}
+Trattiamo le informazioni dell'utente per fornire, migliorare e amministrare i nostri Servizi, per comunicare con l'utente, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo anche trattare le informazioni dell'utente per altri scopi con il suo consenso. Trattiamo le informazioni dell'utente solo se abbiamo un valido motivo legale per farlo.
+
+\u25CF ${[In quali situazioni e con quali tipi di soggetti condividiamo le informazioni personali?]b(18)}
+Possiamo condividere le informazioni in situazioni specifiche e con categorie specifiche di terzi
+
+\u25CF ${[Come manteniamo al sicuro le vostre informazioni?]b(18)}
+Disponiamo di processi e procedure organizzative e tecniche per proteggere le vostre informazioni personali. Tuttavia, nessuna trasmissione elettronica su Internet o tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, pertanto non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non siano in grado di sconfiggere la nostra sicurezza e raccogliere, accedere, rubare o modificare impropriamente le vostre informazioni.
+
+\u25CF ${[Quali sono i vostri diritti?]b(18)}
+A seconda della vostra posizione geografica, la legge sulla privacy applicabile può far sì che abbiate determinati diritti in merito alle vostre informazioni personali.
+
+\u25CF ${[Come esercitare i propri diritti?]b(18)}
+Il modo più semplice per esercitare i propri diritti è contattarci presso la mail ${[atera.world@gmail.com]m(atera.world@gmail.com)}. Prenderemo in considerazione e daremo seguito a qualsiasi richiesta in conformità con le leggi applicabili in materia di protezione dei dati.
+
+${[1. Quali informazioni vengono raccolte]b(24)}
+
+${[Raccogliamo le informazioni personali che l'utente ci fornisce volontariamente quando si registra ai Servizi, esprime interesse a ottenere informazioni su di noi o sui nostri prodotti e Servizi, partecipa ad attività sui Servizi o ci contatta in altro modo.]g(16)}
+
+Le informazioni personali che raccogliamo dipendono dal contesto delle vostre interazioni con noi e con i Servizi, dalle scelte che fate e dai prodotti e dalle funzioni che utilizzate. Le informazioni personali che raccogliamo possono includere quanto segue:
+
+\u25CF Nomi
+\u25CF Indirizzi e-mail
+\u25CF Password
+\u25CF Data di nascita
+\u25CF Dati di contatto o di autenticazione
+
+${[Non trattiamo informazioni sensibili.]b()}
+
+Possiamo offrirvi la possibilità di registrarvi con noi utilizzando i dati del vostro account di social media esistente, come Google o altri account di social media. Se l'utente sceglie di registrarsi in questo modo, raccoglieremo le informazioni descritte nella sezione ${[Come gestiamo i tuoi social logins]b()} di seguito.
+
+Se l'utente utilizza le nostre applicazioni, possiamo raccogliere anche le seguenti informazioni, se l'utente sceglie di fornirci l'accesso o l'autorizzazione:
+
+\u25CF Informazioni di geolocalizzazione: potremmo richiedere l'accesso o l'autorizzazione a tracciare informazioni basate sulla posizione dal dispositivo mobile dell'utente, in modo continuativo o durante l'utilizzo delle nostre applicazioni mobili, per fornire determinati servizi basati sulla posizione. Se desiderate modificare il nostro accesso o le nostre autorizzazioni, potete farlo nelle impostazioni del vostro dispositivo.
+
+\u25CF Raccogliamo automaticamente informazioni sul dispositivo (come l'ID del dispositivo mobile, il modello e il produttore), il sistema operativo, le informazioni sulla versione e la configurazione del sistema, i numeri di identificazione del dispositivo e dell'applicazione, il tipo e la versione del browser, il modello di hardware, il provider di servizi Internet e/o l'operatore di telefonia mobile e l'indirizzo del protocollo Internet (IP) (o il server proxy). Se l'utente utilizza le nostre applicazioni, possiamo anche raccogliere informazioni sulla rete telefonica associata al suo dispositivo mobile, sul sistema operativo o sulla piattaforma del suo dispositivo mobile, sul tipo di dispositivo mobile utilizzato, sull'ID univoco del dispositivo mobile e sulle informazioni relative alle funzioni delle nostre applicazioni a cui ha avuto accesso.
+
+\u25CF Notifiche push: potremmo richiedere l'invio di notifiche push relative al vostro account o a determinate funzioni delle applicazioni. Se si desidera rinunciare a ricevere questo tipo di comunicazioni, è possibile disattivarle nelle impostazioni del dispositivo.
+
+Queste informazioni sono necessarie principalmente per mantenere la sicurezza e il funzionamento delle nostre applicazioni, per la risoluzione dei problemi e per i nostri scopi di analisi e reporting interni.
+
+Tutti i dati personali forniti dall'utente devono essere veritieri, completi e accurati e l'utente è tenuto a comunicare qualsiasi modifica a tali dati personali.
+
+${[Informazioni raccolte automaticamente]b(16)}
+
+\u25CF Dati di log e di utilizzo
+I dati di log e di utilizzo sono informazioni relative al servizio, alla diagnostica, all'utilizzo e alle prestazioni che i nostri server raccolgono automaticamente quando accedete o utilizzate i nostri Servizi e che registriamo nei file di log. A seconda del modo in cui l'utente interagisce con noi, questi dati di log possono includere il suo indirizzo IP, le informazioni sul dispositivo, il tipo di browser e le impostazioni e le informazioni sulla sua attività nei Servizi (come i timbri di data/ora associati all'utilizzo, le pagine e i file visualizzati, le ricerche e altre azioni compiute dall'utente, ad esempio le funzioni utilizzate), le informazioni sugli eventi del dispositivo (come l'attività del sistema, i rapporti sugli errori (a volte chiamati 'crash dump') e le impostazioni hardware).
+\u25CF Dati sulla posizione
+Raccogliamo dati sulla posizione, come le informazioni sulla posizione del dispositivo, che possono essere precise o imprecise. La quantità di informazioni raccolte dipende dal tipo e dalle impostazioni del dispositivo utilizzato per accedere ai Servizi. Ad esempio, possiamo utilizzare il GPS e altre tecnologie per raccogliere dati di geolocalizzazione che ci indicano la vostra posizione attuale (in base al vostro indirizzo IP). L'utente può scegliere di non consentirci di raccogliere queste informazioni rifiutando l'accesso alle informazioni o disattivando le impostazioni di localizzazione sul proprio dispositivo. Tuttavia, se l'utente sceglie di rinunciare, potrebbe non essere in grado di utilizzare alcuni aspetti dei Servizi.
+
+${[Normativa minori di 16 anni]b(16)}
+
+Atera si riserva di interrompere il servizio ed eliminare i dati forniti da utenti con età inferiore ai 16 anni secondo l'articolo 8 del GDPR.
+
+${[2. Come vengono trattate le informazioni]b(24)}
+
+${[Trattiamo le informazioni dell'utente per fornire, migliorare e amministrare i nostri Servizi, per comunicare con l'utente, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo anche trattare le informazioni dell'utente per altri scopi con il suo consenso.]g(16)}
+
+Trattiamo le informazioni personali dell'utente per una serie di motivi, a seconda di come interagisce con i nostri Servizi, tra cui:
+
+\u25CF Per facilitare la creazione e l'autenticazione dell'account e per gestire in altro modo gli account degli utenti. Possiamo trattare le informazioni dell'utente per consentirgli di creare e accedere al suo account, nonché per mantenere il suo account in ordine.
+
+\u25CF Per fornire e facilitare la fornitura di servizi all'utente. Possiamo trattare le informazioni dell'utente per fornirgli il servizio richiesto.
+
+\u25CF Per salvare o proteggere un interesse vitale di un individuo. Possiamo trattare le informazioni dell'utente quando è necessario per salvare o proteggere gli interessi vitali di un individuo, ad esempio per prevenire danni.
+
+${[3. Basi legali per il trattamento delle informazioni]b(24)}
+
+${[Trattiamo i vostri dati personali solo quando riteniamo che sia necessario e abbiamo una valida ragione legale (ossia una base giuridica) per farlo in base alla legge applicabile, ad esempio con il vostro consenso, per rispettare le leggi, per fornirvi servizi per stipulare o adempiere ai nostri obblighi contrattuali, per proteggere i vostri diritti o per soddisfare i nostri legittimi interessi commerciali.]g(16)}
+
+Il Regolamento generale sulla protezione dei dati (GDPR) e il GDPR del Regno Unito ci impongono di illustrare le basi giuridiche valide su cui ci basiamo per trattare i vostri dati personali. In quanto tali, possiamo basarci sulle seguenti basi giuridiche per trattare i vostri dati personali:
+
+${[Consenso]b(16)}
+Possiamo trattare le vostre informazioni se ci avete dato il permesso (cioè il consenso) di utilizzare le vostre informazioni personali per uno scopo specifico. Potete ritirare il vostro consenso in qualsiasi momento.
+
+${[Esecuzione di un contratto]b(16)}
+Possiamo trattare i vostri dati personali quando riteniamo che sia necessario per adempiere ai nostri obblighi contrattuali nei vostri confronti, compresa la fornitura dei nostri Servizi o su vostra richiesta prima di stipulare un contratto con voi.
+
+${[Obblighi legali]b(16)}
+Potremmo trattare i vostri dati quando riteniamo che sia necessario per adempiere ai nostri obblighi legali, come ad esempio per collaborare con un ente preposto all'applicazione della legge o con un'agenzia di regolamentazione, per esercitare o difendere i nostri diritti legali, o per divulgare i vostri dati come prova in un contenzioso in cui siamo coinvolti.
+
+${[Interessi vitali]b(16)}
+Possiamo trattare le vostre informazioni quando riteniamo che sia necessario per proteggere i vostri interessi vitali o gli interessi vitali di una terza parte, come ad esempio situazioni che comportano potenziali minacce alla sicurezza di qualsiasi persona.
+
+${[4. Condivisione dei dati personali da parte nostra]b(24)}
+
+${[Possiamo condividere le informazioni in situazioni specifiche descritte in questa sezione e/o con le seguenti categorie di terze parti.]g(16)}
+
+Fornitori, consulenti e altri fornitori di servizi terzi. Possiamo condividere i vostri dati con venditori, fornitori di servizi, appaltatori o agenti di terze parti (${[terze parti]g()}) che svolgono servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere il loro lavoro. Abbiamo stipulato contratti con le nostre terze parti, che hanno lo scopo di salvaguardare le vostre informazioni personali. Ciò significa che non possono fare nulla con le vostre informazioni personali a meno che non abbiamo dato loro istruzioni in tal senso. Inoltre, non condivideranno i vostri dati personali con altre organizzazioni oltre a noi. Si impegnano inoltre a proteggere i dati in loro possesso per nostro conto e a conservarli per il periodo da noi indicato. Le categorie di terzi con cui possiamo condividere le informazioni personali sono le seguenti:
+
+\u25CF Fornitori di servizi di archiviazione dei dati
+
+\u25CF Servizi di analisi dei dati
+
+\u25CF Servizi di cloud computing
+
+\u25CF Reti pubblicitarie
+
+\u25CF Strumenti di monitoraggio delle prestazioni
+
+\u25CF Strumenti di progettazione e design dei prodotti
+
+\u25CF Servizi di registrazione e autenticazione degli account utente
+
+\u25CF Fornitori di servizi di hosting di siti web
+
+\u25CF Strumenti di test
+
+Potremmo inoltre dover condividere i vostri dati personali nelle seguenti situazioni:
+
+\u25CF Trasferimenti aziendali
+Potremmo condividere o trasferire le informazioni dell'utente in relazione a, o durante le trattative di, qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società.
+
+\u25CF Muro delle offerte 
+Le nostre applicazioni possono visualizzare un ${[muro delle offerte]g()} ospitato da terzi. Tale parete di offerte consente agli inserzionisti di terze parti di offrire valuta virtuale, regali o altri oggetti agli utenti in cambio dell'accettazione e del completamento di un'offerta pubblicitaria. Tale parete di offerte può apparire nelle nostre applicazioni ed essere visualizzata all'utente in base a determinati dati, come l'area geografica o le informazioni demografiche. Facendo clic su una parete di offerte, l'utente verrà portato su un sito web esterno appartenente ad altre persone e lascerà la nostra applicazione. Un identificativo univoco, come il vostro ID utente, sarà condiviso con il fornitore dell'offerta per prevenire le frodi e accreditare correttamente il vostro conto con la relativa ricompensa.
+
+${[5. Condivisione dei dati con terze parti da parte dell'utente]b(24)}
+
+${[Non siamo responsabili della sicurezza delle informazioni che l'utente condivide con terze parti a cui possiamo collegarci o che fanno pubblicità sui nostri Servizi, ma che non sono affiliate ai nostri Servizi.]g(16)}
+
+I Servizi, compresa la nostra bacheca delle offerte, possono collegarsi a siti web, servizi online o applicazioni mobili di terzi e/o contenere pubblicità di terzi che non sono affiliati con noi e che possono collegarsi ad altri siti web, servizi o applicazioni. 
+Di conseguenza, non forniamo alcuna garanzia in merito a tali terze parti e non saremo responsabili per eventuali perdite o danni causati dall'uso di tali siti web, servizi o applicazioni di terze parti. 
+L'inclusione di un link verso un sito web, un servizio o un'applicazione di terzi non implica l'approvazione da parte nostra. 
+Non possiamo garantire la sicurezza e la privacy dei dati forniti a terzi. 
+I dati raccolti da terzi non sono coperti dalla presente informativa sulla privacy. Non siamo responsabili per il contenuto o le pratiche e le politiche di privacy e sicurezza di terzi, compresi altri siti web, servizi o applicazioni che possono essere collegati a o dai Servizi. 
+L'utente dovrebbe prendere visione delle politiche di tali terze parti e contattarle direttamente per rispondere alle proprie domande.
+
+${[6. Gestione degli accessi tramite social media]b(24)}
+
+${[Se scegliete di registrarvi o di accedere ai nostri Servizi utilizzando un account di social media, potremmo avere accesso a determinate informazioni su di voi.]g(16)}
+
+I nostri Servizi offrono la possibilità di registrarsi e accedere utilizzando i dati del proprio account di social media di terze parti (come il login di Google). Qualora l'utente scelga di farlo, riceveremo alcune informazioni sul profilo dell'utente dal suo provider di social media. 
+Le informazioni sul profilo che riceviamo possono variare a seconda del provider di social media in questione, ma spesso includono il nome, l'indirizzo e-mail, l'elenco degli amici e l'immagine del profilo, oltre ad altre informazioni che l'utente sceglie di rendere pubbliche su tale piattaforma di social media.
+
+Utilizzeremo le informazioni ricevute solo per gli scopi descritti nella presente informativa sulla privacy o altrimenti resi noti all'utente sui Servizi in questione. 
+i prega di notare che non controlliamo e non siamo responsabili di altri usi delle informazioni personali dell'utente da parte del fornitore di social media terzo. 
+Vi consigliamo di consultare la loro informativa sulla privacy per capire come raccolgono, utilizzano e condividono le vostre informazioni personali e come potete impostare le vostre preferenze sulla privacy sui loro siti e app.
+
+${[7. Periodo di conservazione delle informazioni]b(24)}
+
+${[Conserviamo le vostre informazioni per tutto il tempo necessario a soddisfare gli scopi delineati nella presente informativa sulla privacy, a meno che non sia altrimenti richiesto dalla legge.]g(16)}
+
+Conserveremo le informazioni personali dell'utente solo per il tempo necessario a raggiungere gli scopi indicati nella presente informativa sulla privacy, a meno che non sia richiesto o consentito dalla legge un periodo di conservazione più lungo (ad esempio per obblighi fiscali, contabili o altri requisiti legali). 
+Nessuna finalità della presente informativa richiederà la conservazione dei dati personali degli utenti per un periodo di tempo superiore a quello in cui gli utenti hanno un account con noi.
+
+Quando non avremo più la legittima necessità di trattare le informazioni personali dell'utente, le cancelleremo o le renderemo anonime oppure, se ciò non fosse possibile (ad esempio perché le informazioni personali sono state archiviate in archivi di backup), le conserveremo in modo sicuro e le isoleremo da qualsiasi ulteriore trattamento fino a quando non sarà possibile cancellarle.
+
+${[8. Conservazione sicura delle informazioni]b(24)}
+
+${[Ci proponiamo di proteggere le vostre informazioni personali attraverso un sistema di misure di sicurezza organizzative e tecniche.]g(16)}
+
+Abbiamo implementato misure di sicurezza tecniche e organizzative adeguate e ragionevoli per proteggere la sicurezza delle informazioni personali che trattiamo. 
+Tuttavia, nonostante le nostre misure di sicurezza e i nostri sforzi per proteggere le vostre informazioni, nessuna trasmissione elettronica su Internet o tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, quindi non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non saranno in grado di sconfiggere la nostra sicurezza e raccogliere, accedere, rubare o modificare impropriamente le vostre informazioni. 
+Anche se faremo del nostro meglio per proteggere le informazioni personali dell'utente, la trasmissione di informazioni personali da e verso i nostri Servizi è a rischio dell'utente. 
+L'utente dovrebbe accedere ai Servizi solo in un ambiente sicuro.
+
+${[9. Diritti dell'utente in materia di privacy]b(24)}
+
+${[In alcune regioni, come lo Spazio Economico Europeo (SEE) e il Regno Unito (UK), l'utente gode di diritti che gli consentono un maggiore accesso e controllo sui propri dati personali. L'utente può rivedere, modificare o chiudere il proprio account in qualsiasi momento.]g(16)}
+
+In alcune regioni (come il SEE e il Regno Unito), l'utente gode di alcuni diritti previsti dalle leggi applicabili in materia di protezione dei dati. Questi possono includere il diritto di richiedere l'accesso e di ottenere una copia dei propri dati personali, di richiedere la rettifica o la cancellazione, di limitare il trattamento dei propri dati personali e se applicabile, la portabilità dei dati. 
+In determinate circostanze, l'utente può anche avere il diritto di opporsi al trattamento dei propri dati personali. Potete presentare tale richiesta contattandoci utilizzando i dettagli di contatto forniti nella sezione dei contatti.
+
+Prenderemo in considerazione e daremo seguito a qualsiasi richiesta in conformità con le leggi applicabili in materia di protezione dei dati.
+
+Se vi trovate nel SEE o nel Regno Unito e ritenete che stiamo trattando illegalmente i vostri dati personali, avete anche il diritto di presentare un reclamo all'autorità locale di controllo della protezione dei dati. Potete trovare i loro dettagli di contatto ${[qui]lk(https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html)}.
+
+Se vi trovate in Svizzera, i dati di contatto delle autorità di protezione dei dati sono disponibili ${[qui]lk(https://www.edoeb.admin.ch/edoeb/en/home.html)}.
+
+Ritiro del consenso: se ci basiamo sul vostro consenso per trattare i vostri dati personali, avete il diritto di ritirare il vostro consenso in qualsiasi momento. Potete revocare il vostro consenso in qualsiasi momento contattandoci utilizzando i dettagli di contatto forniti nella sezione dei contatti.
+
+Tuttavia, si prega di notare che ciò non influirà sulla legittimità del trattamento precedente alla revoca né sul trattamento dei vostri dati personali effettuato sulla base di motivi di trattamento legittimi diversi dal consenso.
+
+Se in qualsiasi momento desiderate rivedere o modificare le informazioni del vostro account o chiudere il vostro account, potete:
+
+\u25CF Contattarci utilizzando le informazioni di contatto fornite.
+
+Su richiesta dell'utente di chiudere l'account, l'account e le informazioni dell'utente verranno disattivati o eliminati dai nostri database attivi. 
+Tuttavia, potremmo conservare alcune informazioni nei nostri archivi per prevenire frodi, risolvere problemi, assistere in eventuali indagini, applicare i nostri termini legali e/o rispettare i requisiti legali applicabili.
+
+Se avete domande o commenti sui vostri diritti alla privacy, potete inviarci un'e-mail all'indirizzo ${[atera.world@gmail.com]m(atera.world@gmail.com)}.
+
+${[10. Controlli per le funzioni DO-NOT-TRACK (DNT)]b(24)}
+
+La maggior parte dei browser web e alcuni sistemi operativi mobili e applicazioni mobili includono una funzione o un'impostazione ${[Do-Not-Track (DNT)]g()} che è possibile attivare per segnalare la propria preferenza in materia di privacy e non far monitorare e raccogliere i dati relativi alle proprie attività di navigazione online. 
+Al momento non è stato ancora definito uno standard tecnologico uniforme per il riconoscimento e l'implementazione dei segnali DNT. 
+Pertanto, al momento non rispondiamo ai segnali DNT del browser o a qualsiasi altro meccanismo che comunichi automaticamente la vostra scelta di non essere tracciati online. 
+e in futuro verrà adottato uno standard per il tracciamento online a cui dovremo attenerci, vi informeremo su tale prassi in una versione aggiornata della presente informativa sulla privacy.
+
+${[11. Aggiornamenti all'informativa]b(24)}
+
+${[Sì, aggiorneremo questa informativa se necessario per rimanere conformi alle leggi in materia.]g(16)}
+
+Potremmo aggiornare la presente informativa sulla privacy di tanto in tanto. 
+La versione aggiornata sarà indicata da una data aggiornata e la versione aggiornata entrerà in vigore non appena sarà accessibile.
+Qualora dovessimo apportare modifiche sostanziali alla presente informativa sulla privacy, potremmo informare l'utente pubblicando in modo visibile un avviso di tali modifiche o inviando direttamente una notifica. 
+Vi invitiamo a consultare frequentemente la presente informativa sulla privacy per essere informati su come stiamo proteggendo le vostre informazioni.
+
+${[12. Contatti]b(24)}
+
+In caso di domande o commenti sulla presente informativa, è possibile inviare un'e-mail all'indirizzo ${[atera.world@gmail.com]m(atera.world@gmail.com)}.
+
+${[13. Revisione e aggiornamento dei dati personali]b(24)}
+
+In base alle leggi vigenti nel vostro Paese, potreste avere il diritto di richiedere l'accesso alle informazioni personali che raccogliamo su di voi, di modificare tali informazioni o di cancellarle.
+Per richiedere la revisione, l'aggiornamento o la cancellazione dei propri dati personali, si prega di inviare un modulo di richiesta alla mail.
