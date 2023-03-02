@@ -1,3 +1,5 @@
+Aggiornamento prova
+
 ${[Ultimo aggiornamento 02 marzo 2023]g(12)}
 
 La presente informativa sulla privacy di Atera (${[Azienda]g()}, ${[noi]g()}, ${[nostro]g()}), descrive come e perché potremmo raccogliere, archiviare, utilizzare e/o condividere (${[trattare]g()}) le vostre informazioni quando utilizzate i nostri servizi (${[servizi]g()}), ad esempio quando:
