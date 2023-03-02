@@ -1,4 +1,4 @@
-${[Ultimo aggiornamento 01 marzo 2023]g(12)}
+${[Ultimo aggiornamento 02 marzo 2023]g(12)}
 
 La presente informativa sulla privacy di Atera (${[Azienda]g()}, ${[noi]g()}, ${[nostro]g()}), descrive come e perché potremmo raccogliere, archiviare, utilizzare e/o condividere (${[trattare]g()}) le vostre informazioni quando utilizzate i nostri servizi (${[servizi]g()}), ad esempio quando:
 
@@ -107,22 +107,15 @@ ${[Possiamo condividere le informazioni in situazioni specifiche descritte in qu
 Fornitori, consulenti e altri fornitori di servizi terzi. Possiamo condividere i vostri dati con venditori, fornitori di servizi, appaltatori o agenti di terze parti (${[terze parti]g()}) che svolgono servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere il loro lavoro. Abbiamo stipulato contratti con le nostre terze parti, che hanno lo scopo di salvaguardare le vostre informazioni personali. Ciò significa che non possono fare nulla con le vostre informazioni personali a meno che non abbiamo dato loro istruzioni in tal senso. Inoltre, non condivideranno i vostri dati personali con altre organizzazioni oltre a noi. Si impegnano inoltre a proteggere i dati in loro possesso per nostro conto e a conservarli per il periodo da noi indicato. Le categorie di terzi con cui possiamo condividere le informazioni personali sono le seguenti:
 
 \u25CF Fornitori di servizi di archiviazione dei dati
-
 \u25CF Servizi di analisi dei dati
-
 \u25CF Servizi di cloud computing
-
 \u25CF Reti pubblicitarie
-
 \u25CF Strumenti di monitoraggio delle prestazioni
-
 \u25CF Strumenti di progettazione e design dei prodotti
-
 \u25CF Servizi di registrazione e autenticazione degli account utente
-
 \u25CF Fornitori di servizi di hosting di siti web
-
 \u25CF Strumenti di test
+\u25CF Servizi affiliati alla piattaforma
 
 Potremmo inoltre dover condividere i vostri dati personali nelle seguenti situazioni:
 
