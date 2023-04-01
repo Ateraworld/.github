@@ -1,26 +1,35 @@
 ${[Ultimo aggiornamento 01 aprile 2023]g(12)}
-La presente informativa descrive i termini e condizioni rivolte agli utenti utilizzatori della piattaforma Atera. Suggeriamo in oltre di leggere l’informativa sulla privacy presente nel sito: https://ateraworld.github.io/#privacy.
-${[1. Accesso al servizio]b(24)}
-I servizi di Atera sono disponibili a tutti gli utenti che si sono registrati nella piattaforma tramite la compilazione del modulo di registrazione (o tramite accesso con Google) e che di conseguenza hanno accettato le informative di privacy, i termini e le condizioni della piattaforma.
 
-La piattaforma non permette la registrazione agli utenti che non hanno compiuto il sedicesimo anno di età secondo l’articolo 8 del GDPR e di conseguenza nega la registrazione agli utenti che hanno un età inferiore.
+La presente informativa descrive i termini e condizioni rivolte agli utenti utilizzatori della piattaforma Atera. Suggeriamo in oltre di leggere l’informativa sulla privacy presente nel sito: ${[https://ateraworld.github.io/#privacy]lk(https://ateraworld.github.io/#privacy)}.
+
+${[1. Accesso al servizio]b(24)}
+
+I servizi di Atera sono disponibili a tutti gli utenti che si sono registrati nella piattaforma tramite la compilazione del modulo di registrazione (o tramite accesso con ${[Google]b()}) e che di conseguenza hanno accettato le informative di privacy, i termini e le condizioni della piattaforma.
+
+La piattaforma non permette la registrazione agli utenti che non hanno compiuto il ${[sedicesimo anno di età secondo l’articolo 8 del GDPR]b()} e di conseguenza nega la registrazione agli utenti che hanno un età inferiore.
 
 Atera si riserva in qualunque momento la modifica ed estensione dei suoi servizi, oltre a modifiche all’informativa sulla privacy ed i termini e condizioni. Gli utenti saranno avvisati di qualsiasi modifica applicata ed hanno il diritto di recesso dell’iscrizione tramite un modulo di richiesta inviabile alla e-mail citata a fine documento.
 
 ${[2. Scopo della piattaforma]b(24)}
-Atera si pone come un’applicazione di supporto per le attività outdoor e non sostituisce in nessun caso la necessità di buona pianificazione e conoscenza del territorio. Le attività all'aperto di natura sportiva come ferrate, trekking e altre, possono essere potenzialmente molto pericolose. Per questo motivo la valutazione dei possibili rischi è responsabilità del singolo che ha la possibilità di tenere conto delle proprie condizioni psico-fisiche oltre alle condizioni ambientali, prima di intraprendere un'attività che comporta dei rischi.
+
+Atera si pone come un’applicazione di supporto per le attività outdoor e non sostituisce in nessun caso la necessità di buona pianificazione e conoscenza del territorio.
+${[Le attività all'aperto di natura sportiva come ferrate, trekking e altre, possono essere potenzialmente molto pericolose]b()}.
+Per questo motivo la valutazione dei possibili rischi è responsabilità del singolo che ha la possibilità di tenere conto delle proprie condizioni psico-fisiche oltre alle condizioni ambientali, prima di intraprendere un'attività che comporta dei rischi.
 
 Atera si impegna nel fornire informazioni corrette ed affidabili, tuttavia non abbiamo la possibilità di garantire assoluta correttezza ed aggiornamento tempestivo di ogni singola informazione fornita dalla piattaforma o da elementi terzi, oltre all’assenza di disservizi del sistema. Per questo, ogni tipo di problema riguardo informazioni o funzionalità della piattaforma, può essere segnalata tramite e-mail citata a fine documento.
 
-Per i motivi sopra esposti, Atera non si prende la responsabilità di eventuali incidenti o danni a persone che hanno deciso di intraprendere una o più attività proposte.
+${[Per i motivi sopra esposti, Atera non si prende la responsabilità di eventuali incidenti o danni a persone che hanno deciso di intraprendere una o più attività proposte]b()}.
 
 ${[3. Proprietà intellettuale]b(24)}
-Tutti i contenuti disponibili nella piattaforma, sono di possesso esclusivo di Atera. La distribuzione, modifica o copia totale o parziale di qualsiasi contenuto non è consentita senza previa autorizzazione rilasciata da Atera.
+
+${[Tutti i contenuti disponibili nella piattaforma, sono di possesso esclusivo di Atera]b()}. La distribuzione, modifica o copia totale o parziale di qualsiasi contenuto non è consentita senza previa autorizzazione rilasciata da Atera.
 
 Le condizioni citate valgono anche per i contenuti forniti da entità terze, la distribuzione, modifica o copia totale o parziale di qualsiasi contenuto non è consentita senza previa autorizzazione.
 
 ${[4. Violazione]b(24)}
-In caso in qui un utente non rispetta le condizioni citate in questo documento, Atera si riserva il diritto di recessione del servizio con eliminazione dell’account e dei dati associati, per gli utenti che non lo rispettano oltre ad adottare ogni provvedimento volto al fermare la violazione compiuta.
 
-${[5. Contatti ]b(24)}
+In caso in cui un utente non rispetta le condizioni citate in questo documento, Atera si riserva il diritto di recessione del servizio con eliminazione dell’account e dei dati associati e il diritto ad adottare ogni provvedimento volto al fermare la violazione compiuta.
+
+${[5. Contatti]b(24)}
+
 In caso di domande o segnalazioni sulla presente informativa, è possibile inviare una mail all’indirizzo: ${[atera.world@gmail.com]mail(atera.world@gmail.com)}
