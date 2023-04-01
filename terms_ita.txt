@@ -28,7 +28,7 @@ Le condizioni citate valgono anche per i contenuti forniti da entità terze, la 
 
 ${[4. Violazione]b(24)}
 
-In caso in cui un utente non rispetta le condizioni citate in questo documento, Atera si riserva il diritto di recessione del servizio con eliminazione dell’account e dei dati associati e il diritto ad adottare ogni provvedimento volto al fermare la violazione compiuta.
+In caso in cui un utente non rispetti le condizioni citate in questo documento, Atera si riserva il diritto di recessione del servizio con eliminazione dell’account e dei dati associati e il diritto ad adottare ogni provvedimento volto al fermare la violazione compiuta.
 
 ${[5. Contatti]b(24)}
 
