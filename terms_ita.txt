@@ -1,6 +1,6 @@
 ${[Ultimo aggiornamento 01 aprile 2023]g(12)}
 
-La presente informativa descrive i termini e condizioni rivolte agli utenti utilizzatori della piattaforma Atera. Suggeriamo in oltre di leggere l’informativa sulla privacy: ${[https://ateraworld.github.io/#privacy]lk(https://ateraworld.github.io/#privacy)}.
+La presente informativa descrive i termini e condizioni rivolte agli utenti utilizzatori della piattaforma Atera. Suggeriamo in oltre di leggere l’informativa sulla ${[Privacy Policy]lk(https://ateraworld.github.io/#privacy)}.
 
 ${[1. Accesso al servizio]b(24)}
 
