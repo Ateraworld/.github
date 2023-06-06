@@ -2,7 +2,11 @@
 
 [Website](https://ateraworld.github.io/#/)
 
+-----
+
 [Download Android](https://play.google.com/store/apps/details?id=com.ateraworld.atera)
+
+[Download IOS](https://apps.apple.com/it/app/atera-ferrate-trekking/id6449359062)
 
 -----
 
