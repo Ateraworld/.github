@@ -1,4 +1,4 @@
-${[Ultimo aggiornamento 27 marzo 2023]g(12)}
+${[Ultimo aggiornamento 10 Luglio 2023]g(12)}
 
 La presente informativa sulla privacy di Atera (${[Azienda]i()}, ${[noi]i()}, ${[nostro]i()}), descrive come e perché potremmo raccogliere, archiviare, utilizzare e/o condividere (${[trattare]i()}) le vostre informazioni quando utilizzate i nostri servizi (${[servizi]i()}), ad esempio quando:
 
@@ -185,6 +185,7 @@ Tuttavia, si prega di notare che ciò non influirà sulla legittimità del tratt
 Se in qualsiasi momento desiderate rivedere o modificare le informazioni del vostro account o chiudere il vostro account, potete:
 
 ● Contattarci utilizzando le informazioni di contatto fornite.
+● Chiudere il vostro account e cancellare i dati associati tramite il menu delle impostazioni all'interno dell'app
 
 Su richiesta dell'utente di chiudere l'account, l'account e le informazioni dell'utente verranno disattivati o eliminati dai nostri database attivi. 
 Tuttavia, potremmo conservare alcune informazioni nei nostri archivi per prevenire frodi, risolvere problemi, assistere in eventuali indagini, applicare i nostri termini legali e/o rispettare i requisiti legali applicabili.
