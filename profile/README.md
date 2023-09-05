@@ -1,6 +1,6 @@
 # Atera
 
-[Website](https://ateraworld.github.io/#/)
+[Website](https://ateraworld.it)
 
 -----
 
