@@ -1,7 +1,7 @@
 # Atera
 
 <p align="center">
-  <a href="https://ateraworld.it"><img src="res/logo.svg" height=80></a>
+  <a href="https://ateraworld.it"><img src="https://github.com/Ateraworld/.github/blob/main/profile/res/logo.svg" height=80></a>
   <br clear="left"/>
   Check out our web app!
 </p>
@@ -16,8 +16,8 @@
 ### Download
 
 <p align="center">
-  <a href="https://apps.apple.com/it/app/atera-ferrate-trekking/id6449359062"><img src="res/apple.svg" height=80 hspace="80" ></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ateraworld.atera"><img src="res/google_play.svg" height=80 hspace="80"></a>
+  <a href="https://apps.apple.com/it/app/atera-ferrate-trekking/id6449359062"><img src="https://github.com/Ateraworld/.github/blob/main/profile/res/apple.svg" height=80 hspace="80" ></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ateraworld.atera"><img src="https://github.com/Ateraworld/.github/blob/main/profile/res/google_play.svg" height=80 hspace="80"></a>
 </p>
 
 
