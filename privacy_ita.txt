@@ -1,35 +1,35 @@
-${[Ultimo aggiornamento 10 Luglio 2023]g(12)}
+${[Ultimo aggiornamento 04 Gennaio 2024]g(12)}
 
 La presente informativa sulla privacy di Atera (${[Azienda]i()}, ${[noi]i()}, ${[nostro]i()}), descrive come e perché potremmo raccogliere, archiviare, utilizzare e/o condividere (${[trattare]i()}) le vostre informazioni quando utilizzate i nostri servizi (${[servizi]i()}), ad esempio quando:
 
-● Scarica e utilizza la nostra applicazione mobile (Atera) o qualsiasi altra nostra applicazione che rimanda a questa informativa sulla privacy
+- Scarica e utilizza la nostra applicazione mobile (Atera) o qualsiasi altra nostra applicazione che rimanda a questa informativa sulla privacy
 
-● Si impegna con noi in altri modi correlati, comprese le vendite, il marketing o gli eventi
+- Si impegna con noi in altri modi correlati, comprese le vendite, il marketing o gli eventi
 
 ${[Riassunto punti chiave]b(18)}
 
 Quando visitate, utilizzate o navigate nei nostri Servizi, possiamo elaborare informazioni personali a seconda di come interagite con Atera e i Servizi, delle scelte che fate e dei prodotti e delle funzioni che utilizzate.
 
-● ${[Trattiamo informazioni personali sensibili?]b(18)}
+- ${[Trattiamo informazioni personali sensibili?]b(18)}
 Non trattiamo informazioni personali sensibili.
 
-● ${[Riceviamo informazioni da terzi?]b(18)}
+- ${[Riceviamo informazioni da terzi?]b(18)}
 Non riceviamo informazioni da terzi.
 
-● ${[Come trattiamo le informazioni dell'utente?]b(18)}
+- ${[Come trattiamo le informazioni dell'utente?]b(18)}
 Trattiamo le informazioni dell'utente per fornire, migliorare e amministrare i nostri Servizi, per comunicare con l'utente, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo anche trattare le informazioni dell'utente per altri scopi con il suo consenso. Trattiamo le informazioni dell'utente solo se abbiamo un valido motivo legale per farlo.
 
-● ${[In quali situazioni e con quali tipi di soggetti condividiamo le informazioni personali?]b(18)}
+- ${[In quali situazioni e con quali tipi di soggetti condividiamo le informazioni personali?]b(18)}
 Possiamo condividere le informazioni in situazioni specifiche e con categorie specifiche di terzi
 
-● ${[Come manteniamo al sicuro le vostre informazioni?]b(18)}
+- ${[Come manteniamo al sicuro le vostre informazioni?]b(18)}
 Disponiamo di processi e procedure organizzative e tecniche per proteggere le vostre informazioni personali. Tuttavia, nessuna trasmissione elettronica su Internet o tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, pertanto non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non siano in grado di sconfiggere la nostra sicurezza e raccogliere, accedere, rubare o modificare impropriamente le vostre informazioni.
 
-● ${[Quali sono i vostri diritti?]b(18)}
+- ${[Quali sono i vostri diritti?]b(18)}
 A seconda della vostra posizione geografica, la legge sulla privacy applicabile può far sì che abbiate determinati diritti in merito alle vostre informazioni personali.
 
-● ${[Come esercitare i propri diritti?]b(18)}
-Il modo più semplice per esercitare i propri diritti è contattarci presso la mail ${[atera.world@gmail.com]mail(atera.world@gmail.com)}. Prenderemo in considerazione e daremo seguito a qualsiasi richiesta in conformità con le leggi applicabili in materia di protezione dei dati.
+- ${[Come esercitare i propri diritti?]b(18)}
+Il modo più semplice per esercitare i propri diritti è contattarci presso la mail ${[privacy@ateraworld.it]mail(privacy@ateraworld.it)}. Prenderemo in considerazione e daremo seguito a qualsiasi richiesta in conformità con le leggi applicabili in materia di protezione dei dati.
 
 ${[1. Quali informazioni vengono raccolte]b(24)}
 
@@ -37,11 +37,11 @@ ${[Raccogliamo le informazioni personali che l'utente ci fornisce volontariament
 
 Le informazioni personali che raccogliamo dipendono dal contesto delle vostre interazioni con noi e con i Servizi, dalle scelte che fate e dai prodotti e dalle funzioni che utilizzate. Le informazioni personali che raccogliamo possono includere quanto segue:
 
-● Nomi
-● Indirizzi e-mail
-● Password
-● Data di nascita
-● Dati di contatto o di autenticazione
+- Nomi
+- Indirizzi e-mail
+- Password
+- Data di nascita
+- Dati di contatto o di autenticazione
 
 ${[Non trattiamo informazioni sensibili.]b()}
 
@@ -49,11 +49,11 @@ Possiamo offrirvi la possibilità di registrarvi con noi utilizzando i dati del 
 
 Se l'utente utilizza le nostre applicazioni, possiamo raccogliere anche le seguenti informazioni, se l'utente sceglie di fornirci l'accesso o l'autorizzazione:
 
-● Informazioni di geolocalizzazione: potremmo richiedere l'accesso o l'autorizzazione a tracciare informazioni basate sulla posizione dal dispositivo mobile dell'utente, in modo continuativo o durante l'utilizzo delle nostre applicazioni mobili, per fornire determinati servizi basati sulla posizione. Se desiderate modificare il nostro accesso o le nostre autorizzazioni, potete farlo nelle impostazioni del vostro dispositivo.
+- Informazioni di geolocalizzazione: potremmo richiedere l'accesso o l'autorizzazione a tracciare informazioni basate sulla posizione dal dispositivo mobile dell'utente, in modo continuativo o durante l'utilizzo delle nostre applicazioni mobili, per fornire determinati servizi basati sulla posizione. Se desiderate modificare il nostro accesso o le nostre autorizzazioni, potete farlo nelle impostazioni del vostro dispositivo.
 
-● Raccogliamo automaticamente informazioni sul dispositivo (come l'ID del dispositivo mobile, il modello e il produttore), il sistema operativo, le informazioni sulla versione e la configurazione del sistema, i numeri di identificazione del dispositivo e dell'applicazione, il tipo e la versione del browser, il modello di hardware, il provider di servizi Internet e/o l'operatore di telefonia mobile e l'indirizzo del protocollo Internet (IP) (o il server proxy). Se l'utente utilizza le nostre applicazioni, possiamo anche raccogliere informazioni sulla rete telefonica associata al suo dispositivo mobile, sul sistema operativo o sulla piattaforma del suo dispositivo mobile, sul tipo di dispositivo mobile utilizzato, sull'ID univoco del dispositivo mobile e sulle informazioni relative alle funzioni delle nostre applicazioni a cui ha avuto accesso.
+- Raccogliamo automaticamente informazioni sul dispositivo (come l'ID del dispositivo mobile, il modello e il produttore), il sistema operativo, le informazioni sulla versione e la configurazione del sistema, i numeri di identificazione del dispositivo e dell'applicazione, il tipo e la versione del browser, il modello di hardware, il provider di servizi Internet e/o l'operatore di telefonia mobile e l'indirizzo del protocollo Internet (IP) (o il server proxy). Se l'utente utilizza le nostre applicazioni, possiamo anche raccogliere informazioni sulla rete telefonica associata al suo dispositivo mobile, sul sistema operativo o sulla piattaforma del suo dispositivo mobile, sul tipo di dispositivo mobile utilizzato, sull'ID univoco del dispositivo mobile e sulle informazioni relative alle funzioni delle nostre applicazioni a cui ha avuto accesso.
 
-● Notifiche push: potremmo richiedere l'invio di notifiche push relative al vostro account o a determinate funzioni delle applicazioni. Se si desidera rinunciare a ricevere questo tipo di comunicazioni, è possibile disattivarle nelle impostazioni del dispositivo.
+- Notifiche push: potremmo richiedere l'invio di notifiche push relative al vostro account o a determinate funzioni delle applicazioni. Se si desidera rinunciare a ricevere questo tipo di comunicazioni, è possibile disattivarle nelle impostazioni del dispositivo.
 
 Queste informazioni sono necessarie principalmente per mantenere la sicurezza e il funzionamento delle nostre applicazioni, per la risoluzione dei problemi e per i nostri scopi di analisi e reporting interni.
 
@@ -61,9 +61,9 @@ Tutti i dati personali forniti dall'utente devono essere veritieri, completi e a
 
 ${[Informazioni raccolte automaticamente]b(16)}
 
-● Dati di log e di utilizzo
+- Dati di log e di utilizzo
 I dati di log e di utilizzo sono informazioni relative al servizio, alla diagnostica, all'utilizzo e alle prestazioni che i nostri server raccolgono automaticamente quando accedete o utilizzate i nostri Servizi e che registriamo nei file di log. A seconda del modo in cui l'utente interagisce con noi, questi dati di log possono includere il suo indirizzo IP, le informazioni sul dispositivo, il tipo di browser e le impostazioni e le informazioni sulla sua attività nei Servizi (come i timbri di data/ora associati all'utilizzo, le pagine e i file visualizzati, le ricerche e altre azioni compiute dall'utente, ad esempio le funzioni utilizzate), le informazioni sugli eventi del dispositivo (come l'attività del sistema, i rapporti sugli errori (a volte chiamati 'crash dump') e le impostazioni hardware).
-● Dati sulla posizione
+- Dati sulla posizione
 Raccogliamo dati sulla posizione, come le informazioni sulla posizione del dispositivo, che possono essere precise o imprecise. La quantità di informazioni raccolte dipende dal tipo e dalle impostazioni del dispositivo utilizzato per accedere ai Servizi. Ad esempio, possiamo utilizzare il GPS e altre tecnologie per raccogliere dati di geolocalizzazione che ci indicano la vostra posizione attuale (in base al vostro indirizzo IP). L'utente può scegliere di non consentirci di raccogliere queste informazioni rifiutando l'accesso alle informazioni o disattivando le impostazioni di localizzazione sul proprio dispositivo. Tuttavia, se l'utente sceglie di rinunciare, potrebbe non essere in grado di utilizzare alcuni aspetti dei Servizi.
 
 ${[Normativa minori di 16 anni]b(16)}
@@ -76,11 +76,11 @@ ${[Trattiamo le informazioni dell'utente per fornire, migliorare e amministrare 
 
 Trattiamo le informazioni personali dell'utente per una serie di motivi, a seconda di come interagisce con i nostri Servizi, tra cui:
 
-● Per facilitare la creazione e l'autenticazione dell'account e per gestire in altro modo gli account degli utenti. Possiamo trattare le informazioni dell'utente per consentirgli di creare e accedere al suo account, nonché per mantenere il suo account in ordine.
+- Per facilitare la creazione e l'autenticazione dell'account e per gestire in altro modo gli account degli utenti. Possiamo trattare le informazioni dell'utente per consentirgli di creare e accedere al suo account, nonché per mantenere il suo account in ordine.
 
-● Per fornire e facilitare la fornitura di servizi all'utente. Possiamo trattare le informazioni dell'utente per fornirgli il servizio richiesto.
+- Per fornire e facilitare la fornitura di servizi all'utente. Possiamo trattare le informazioni dell'utente per fornirgli il servizio richiesto.
 
-● Per salvare o proteggere un interesse vitale di un individuo. Possiamo trattare le informazioni dell'utente quando è necessario per salvare o proteggere gli interessi vitali di un individuo, ad esempio per prevenire danni.
+- Per salvare o proteggere un interesse vitale di un individuo. Possiamo trattare le informazioni dell'utente quando è necessario per salvare o proteggere gli interessi vitali di un individuo, ad esempio per prevenire danni.
 
 ${[3. Basi legali per il trattamento delle informazioni]b(24)}
 
@@ -106,23 +106,23 @@ ${[Possiamo condividere le informazioni in situazioni specifiche descritte in qu
 
 Fornitori, consulenti e altri fornitori di servizi terzi. Possiamo condividere i vostri dati con venditori, fornitori di servizi, appaltatori o agenti di terze parti (${[terze parti]g()}) che svolgono servizi per noi o per nostro conto e richiedono l'accesso a tali informazioni per svolgere il loro lavoro. Abbiamo stipulato contratti con le nostre terze parti, che hanno lo scopo di salvaguardare le vostre informazioni personali. Ciò significa che non possono fare nulla con le vostre informazioni personali a meno che non abbiamo dato loro istruzioni in tal senso. Inoltre, non condivideranno i vostri dati personali con altre organizzazioni oltre a noi. Si impegnano inoltre a proteggere i dati in loro possesso per nostro conto e a conservarli per il periodo da noi indicato. Le categorie di terzi con cui possiamo condividere le informazioni personali sono le seguenti:
 
-● Fornitori di servizi di archiviazione dei dati
-● Servizi di analisi dei dati
-● Servizi di cloud computing
-● Reti pubblicitarie
-● Strumenti di monitoraggio delle prestazioni
-● Strumenti di progettazione e design dei prodotti
-● Servizi di registrazione e autenticazione degli account utente
-● Fornitori di servizi di hosting di siti web
-● Strumenti di test
-● Servizi affiliati alla piattaforma
+- Fornitori di servizi di archiviazione dei dati
+- Servizi di analisi dei dati
+- Servizi di cloud computing
+- Reti pubblicitarie
+- Strumenti di monitoraggio delle prestazioni
+- Strumenti di progettazione e design dei prodotti
+- Servizi di registrazione e autenticazione degli account utente
+- Fornitori di servizi di hosting di siti web
+- Strumenti di test
+- Servizi affiliati alla piattaforma
 
 Potremmo inoltre dover condividere i vostri dati personali nelle seguenti situazioni:
 
-● Trasferimenti aziendali
+- Trasferimenti aziendali
 Potremmo condividere o trasferire le informazioni dell'utente in relazione a, o durante le trattative di, qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società.
 
-● Muro delle offerte 
+- Muro delle offerte 
 Le nostre applicazioni possono visualizzare un ${[muro delle offerte]g()} ospitato da terzi. Tale parete di offerte consente agli inserzionisti di terze parti di offrire valuta virtuale, regali o altri oggetti agli utenti in cambio dell'accettazione e del completamento di un'offerta pubblicitaria. Tale parete di offerte può apparire nelle nostre applicazioni ed essere visualizzata all'utente in base a determinati dati, come l'area geografica o le informazioni demografiche. Facendo clic su una parete di offerte, l'utente verrà portato su un sito web esterno appartenente ad altre persone e lascerà la nostra applicazione. Un identificativo univoco, come il vostro ID utente, sarà condiviso con il fornitore dell'offerta per prevenire le frodi e accreditare correttamente il vostro conto con la relativa ricompensa.
 
 ${[5. Condivisione dei dati con terze parti da parte dell'utente]b(24)}
@@ -184,13 +184,13 @@ Tuttavia, si prega di notare che ciò non influirà sulla legittimità del tratt
 
 Se in qualsiasi momento desiderate rivedere o modificare le informazioni del vostro account o chiudere il vostro account, potete:
 
-● Contattarci utilizzando le informazioni di contatto fornite.
-● Chiudere il vostro account e cancellare i dati associati tramite il menu delle impostazioni all'interno dell'app
+- Contattarci utilizzando le informazioni di contatto fornite.
+- Chiudere il vostro account e cancellare i dati associati tramite il menu delle impostazioni all'interno dell'app
 
 Su richiesta dell'utente di chiudere l'account, l'account e le informazioni dell'utente verranno disattivati o eliminati dai nostri database attivi. 
 Tuttavia, potremmo conservare alcune informazioni nei nostri archivi per prevenire frodi, risolvere problemi, assistere in eventuali indagini, applicare i nostri termini legali e/o rispettare i requisiti legali applicabili.
 
-Se avete domande o commenti sui vostri diritti alla privacy, potete inviarci un'e-mail all'indirizzo ${[atera.world@gmail.com]mail(atera.world@gmail.com)}.
+Se avete domande o commenti sui vostri diritti alla privacy, potete inviarci un'e-mail all'indirizzo ${[privacy@ateraworld.it]mail(privacy@ateraworld.it)}.
 
 ${[10. Controlli per le funzioni DO-NOT-TRACK (DNT)]b(24)}
 
@@ -210,7 +210,7 @@ Vi invitiamo a consultare frequentemente la presente informativa sulla privacy p
 
 ${[12. Contatti]b(24)}
 
-In caso di domande o commenti sulla presente informativa, è possibile inviare un'e-mail all'indirizzo ${[atera.world@gmail.com]mail(atera.world@gmail.com)}.
+In caso di domande o commenti sulla presente informativa, è possibile inviare un'e-mail all'indirizzo ${[privacy@ateraworld.it]mail(privacy@ateraworld.it)}.
 
 ${[13. Revisione e aggiornamento dei dati personali]b(24)}
 
